@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "SolarContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Solar",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Assembly]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Battery]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BatteryRequest]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ConsumptionCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Dimensioning]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimensioningConsumption]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimensioningkWp]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Installer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Project]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoofMaterial]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoofType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Status]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "(localdb)\\MSSQLLocalDB.Solar",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
